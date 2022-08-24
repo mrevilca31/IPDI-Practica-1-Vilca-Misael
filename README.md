@@ -1,11 +1,13 @@
 # IPDI-Practica-1-Vilca-Misael :computer:
 ---
 ## IMPORTANTE :bangbang:
-El programa principal se encuentra en el archivo main.py
+El programa principal se encuentra en el archivo main.py :heavy_check_mark:
+
+El archivo interfaz.py no se encuentra completado, es decir no es funcional :x: 
 
 ---
 
-## RESULTADOS :ballot_box_with_check:
+## RESULTADOS :clipboard:
 ### Modificando la Luminancia
 Cuando al valor Y lo multiplicamos por un valor menor que 1 obtenemos lo siguiente
 
